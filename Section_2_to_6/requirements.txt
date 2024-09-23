@@ -1,0 +1,10 @@
+pandas
+pydantic
+langchain
+langchain_community
+langchain_openai
+langchain_anthropic
+json
+typing
+dotenv
+deepeval
