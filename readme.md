@@ -26,8 +26,8 @@ Ensure you have the following installed:
 4. Activate the virtual environment:
 
     ```bash
-        source venv/bin/activate     # For Linux/macOS
-        .\venv\Scripts\activate       # For Windows
+        source venv/bin/activate     
+        
     ```
 ## Step 2: Install Dependencies
 
