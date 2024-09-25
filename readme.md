@@ -35,7 +35,7 @@ Install the necessary Python packages for the notebooks.
 
 Run the following command to install all required dependencies:
 
-    ```bash
-        pip install pandas pydantic langchain langchain_community langchain_openai langchain_anthropic langchain_google_genai deepeval rank_bm25 faiss-cpu duckduckgo-search
-    ```
+```bash
+    pip install pandas pydantic langchain langchain_community langchain_openai langchain_anthropic langchain_google_genai deepeval rank_bm25 faiss-cpu duckduckgo-search
+```
 
